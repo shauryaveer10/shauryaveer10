@@ -50,7 +50,6 @@
 
 - Deep diving into **System Design**
 - Improving **Backend Development with Spring Boot**
-- Preparing for **Product-Based Company Interviews**
 
 ---
 
